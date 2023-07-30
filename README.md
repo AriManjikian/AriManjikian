@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ari</h1>
 
-- 16 y/o Armenian
-
 - Living in California
 
 - I’m currently learning **React and Java**
